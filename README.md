@@ -1,2 +1,1 @@
-esto es una prueba para repositorio en github
-
+prueba de como crear un repositorio sarpado en github a mi computadora.
